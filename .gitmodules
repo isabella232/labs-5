@@ -1,0 +1,3 @@
+[submodule "puppet-vro-starter_content"]
+	path = vmware-vro
+	url = https://github.com/puppetlabs/puppet-vro-starter_content/
